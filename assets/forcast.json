@@ -1,0 +1,30 @@
+{
+  "cod":"200",
+  "message":0,
+  "cnt":40,
+  "list":[
+    {
+         "dt":1663502400,
+         "main":{
+         "temp":303.8,
+         "feels_like":302.91,
+         "temp_min":303.8,
+         "temp_max":306.26,
+         "pressure":1010,"sea_level":1010,"grnd_level":1006,"humidity":34,"temp_kf":-2.46},
+
+
+          "weather":[{"id":802,"main":"Clouds","description":"scattered clouds","icon":"03d"}],
+          "clouds":{"all":27},"wind":{"speed":2.11,"deg":290,"gust":2.99},
+          "visibility":10000,
+          "pop":0,
+          "sys":{"pod":"d"},
+           "dt_txt":"2022-09-18 12:00:00"
+    }
+
+
+
+
+]
+}
+
+

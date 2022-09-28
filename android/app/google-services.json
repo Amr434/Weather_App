@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "358015926712",
+    "project_id": "wheather-app-12aae",
+    "storage_bucket": "wheather-app-12aae.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:358015926712:android:1e774e893cb07c08830f4d",
+        "android_client_info": {
+          "package_name": "com.example.whether_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "358015926712-fgn2tmasfjaopg9skko582sa8tkrnjnu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.whether_app",
+            "certificate_hash": "f278dbfe9103c0ee8dd1ab9eb4ee27b5ee0a5af9"
+          }
+        },
+        {
+          "client_id": "358015926712-uia1fa450ujkk8udjlvbkn7oce8dpo5k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJsF3SOPaJHQjo2YxaT-fNo_McTaMLpBw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "358015926712-uia1fa450ujkk8udjlvbkn7oce8dpo5k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
